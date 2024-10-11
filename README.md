@@ -4,13 +4,14 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+ini contoh input laravel ke 18 the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+cara belajar laravel
 ```bash
-pip install foobar
+
+
 ```
 
-## Usage![Screenshot (37)](https://github.com/user-attachments/assets/1f1b1cd6-25d1-4917-8f46-18ae1cc952a1)
+## ini contoh proses laravel ke 18![Screenshot (37)](https://github.com/user-attachments/assets/1f1b1cd6-25d1-4917-8f46-18ae1cc952a1)
 
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/ee835812-f132-4ac4-86be-89ff30eb9b0a)
