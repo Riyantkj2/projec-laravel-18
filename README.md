@@ -6,6 +6,12 @@ Foobar is a Python library for dealing with word pluralization.
 
 ini contoh input laravel ke 18 the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 cara belajar laravel
+
+Agar lebih mudah dan paham tentang penjelasan cara membuat form validasi laravel ini.
+
+Seperti biasa pertama kita akan membuat 2 buah route untuk membuat form inputan, dan route yang 1 laginya untuk membuat proses validasi dari form inputan yang dikirim.
+
+belajar_laravel/routes/web.php
 ```bash
 
 
